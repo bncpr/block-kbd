@@ -1,3 +1,6 @@
 [submodule "dep/kbd"]
 	path = dep/kbd
 	url = https://github.com/foostan/kbd
+[submodule "plates"]
+	path = plates
+	url = ./plates
