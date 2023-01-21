@@ -1,6 +1,6 @@
 [submodule "dep/kbd"]
 	path = dep/kbd
 	url = https://github.com/foostan/kbd
-[submodule "plates"]
-	path = plates
-	url = ./plates
+[submodule "block-kbd-plates"]
+	path = block-kbd-plates
+	url = https://github.com/bncpr/block-kbd-plates
